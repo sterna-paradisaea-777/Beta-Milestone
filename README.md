@@ -120,15 +120,8 @@ https://user-images.githubusercontent.com/88767205/134799168-d6681766-57ef-436e-
 
 ## Charts
 
-These charts attempt to show how friendly the area is to different types of visitors to the region. In other words, it is not recommended to visit a city where there are few favorite attractions.
+These charts shows the number of various tourist attractions in the city.
 
-![61c415876fceb972ba88417d85b0467](https://user-images.githubusercontent.com/88767205/134798986-18b446d9-b526-4940-a32c-c15f5f5bb4f5.png)
 
-## In order to show the change in time, the chart battery needs to be reconnected. Thanks.
-![01](https://user-images.githubusercontent.com/88767205/134799244-046f0083-bced-435f-a688-01aa6c9b183c.jpg)
-![0](https://user-images.githubusercontent.com/88767205/134799253-552aa6c8-77b1-4cb1-9fe0-f2c5d375590e.jpg)
-
-## Issue of charts
-The data of the chart can only display the first option of 【Specify Features】list,I am improving it, please comment if you have any suggestions, thank you very much .
 
 
