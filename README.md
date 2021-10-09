@@ -95,9 +95,7 @@ Point-to-point lines represent the distance between each type of attraction and 
 **Main slider: 0-24 (one day)**
 
 Look into the changes in attraction recommendations over the day (24 hours) because many attractions have fixed opening hours.
-
-
-![intro3](https://user-images.githubusercontent.com/88767205/134798942-adc269af-7b92-4f00-be76-438ab3e57930.jpg)
+The current time setting for the opening of the attraction is general. Further, by adjusting the Threshold can also be used to show the popular times of attractions.
 
 **Example【Pretoria】**
 
@@ -125,7 +123,7 @@ https://user-images.githubusercontent.com/88767205/134799168-d6681766-57ef-436e-
 
 ## Charts
 
-These charts shows the number of various tourist attractions in the city.
+These charts show the different proportions of three types of accommodations and the number of various tourist attractions in the city.
 
 
 
