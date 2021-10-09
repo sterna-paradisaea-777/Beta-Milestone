@@ -5,12 +5,9 @@
 - People can choose different colored layers to view depending on their preference for different types of attractions.
 - Currently, there are several categories regarding people's preferences, as shown below.
 
-![intro](https://user-images.githubusercontent.com/88767205/134797778-cf8dd153-a961-4220-9683-ab0a8f937e48.jpg)
-
-
 ### Specify Feature List
 
-*PS： Users can add or subtract options to suit their preferences.*
+*PS： You can add or subtract options by your preferences.*
 
 **Accommodation**
 
@@ -18,7 +15,8 @@ apartment, hostel, hotel
 
 **Basic attractions and leisure**
 
-attraction, dog park, golf course, nature reserve, park, water park
+attraction
+parks: dog park, golf course, nature reserve, park, water park
 
 **Family （with children）**
 
@@ -53,10 +51,10 @@ bar, pub, nightclub
 - point-line / grid-field 【light green / dark green groups】
 - Adjusts the display color of points or lines【red groups】
 
-![intro2](https://user-images.githubusercontent.com/88767205/134797797-254f7d9d-a7db-4444-a4db-d58ff37b6a0d.jpg)
-
 
 ### Point - Line
+Use point and line analysis to identify tourist attractions within 1500m of a residential location. This distance is adjustable as required.
+
 
 **Apartment**（suitable for family travel）⇥⇥⇥ Basic & Family 
 
@@ -64,11 +62,18 @@ bar, pub, nightclub
 
 **Hostel** (for young people or tourists who don't have enough money to travel) ⇥⇥⇥ Special tour
 
-# 03 How to use
+### Grid
+In the position of the accommodation, the grid expands outwards. Facilitates the identification of accommodation in the area on the map.
 
-1. The expanded part of the grid shows the place of accommodation.
-2. The different colored dots and lines represent the connection between different types of tourist attractions and living places.
-3. Identify the grid expansion with or without the connecting lines of favored attractions to find a suitable place to live.
+### Field
+Mark the parks and green Spaces on the map. You can intuitively understand the greening rate of the city.
+
+# 03 How to use
+1. Use your own openstreet map. 
+2. The expanded part of the grid shows the place of accommodation.
+3. The different colored dots and lines represent the connection between different types of tourist attractions and living places.
+4. Identify the grid expansion with or without the connecting lines of favored attractions to find a suitable place to live.
+5. When the grid is expanded and there are many scenic spots connected, it is most likely to be a popular place for tourists to stay.
 
 ## Example & Display
 
